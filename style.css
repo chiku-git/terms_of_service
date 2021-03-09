@@ -10,10 +10,18 @@ ul, ol {
   padding-left: 2.0rem;
 }
 
-.table td, .table th {
-  padding: 6px;
+span {
+  font-size: 15px;
 }
 
 ul, ol, p, table {
   font-size: small;
+}
+
+.table td, .table th {
+  padding: 6px;
+}
+
+.container-fluid {
+  padding: 4rem 2rem 4rem 2rem;
 }
