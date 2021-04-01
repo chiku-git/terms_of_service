@@ -2,8 +2,9 @@
   font-family: sans-serif;
 }
 
-ul {
+.yougo-section {
   list-style: none;
+  padding-left: 0rem;
 }
 
 ul, ol {
